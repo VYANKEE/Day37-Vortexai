@@ -36,7 +36,8 @@ const Chat = () => {
     try {
       await addDoc(collection(db, "messages"), { text: userMessage, role: "user", uid: user.uid, createdAt: serverTimestamp() });
       
-      const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/chat";
+      // AB HUM LIVE SERVER SE BAAT KARENGE
+    const API_URL = "https://day37-vortexai.onrender.com/api/chat";
       const historyContext = messages.slice(-5).map(msg => ({ role: msg.role === "user" ? "user" : "assistant", content: msg.text }));
       
       const response = await fetch(API_URL, {

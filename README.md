@@ -1,6 +1,6 @@
 # 🌪️ VORTEX AI - Digital Consciousness System( Personal Chatbot )
 
-> **Day 37 of 45 Days Coding Challenge**
+> **Day 37  of 45 Days Coding Challenge**
 > *Built with React, Node.js, Firebase, & NVIDIA AI*
 
 
@@ -13,7 +13,7 @@
 
 **VORTEX AI** is not just a chatbot; it is a high-performance, latency-free **Neural Interface**. Designed with a **Cyberpunk/Sci-Fi aesthetic**, it features a holographic HUD, persistent memory banks, and real-time data synchronization.
 
-Built to simulate a futuristic operating system, it leverages **NVIDIA's LLM infrastructure** to provide intelligent, context-aware responses that "remember" previous conversations.
+  Built to simulate a futuristic operating system, it leverages **NVIDIA's LLM infrastructure** to provide intelligent, context-aware responses that "remember" previous conversations.
 
 ### ✨ Key Features (The "Heavy" Stuff)
 * **🧠 Infinite Neural Memory:** Remembers context across sessions using **Firebase Firestore Vector Storage**.
@@ -25,7 +25,7 @@ Built to simulate a futuristic operating system, it leverages **NVIDIA's LLM inf
 
 ---
 
-## 🛠️ Tech Stack (The Engine)
+## 🛠️ Tech Stack 
 
 | Component | Technology |
 | :--- | :--- |
